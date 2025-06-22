@@ -25,8 +25,8 @@ This repository contains the following key artifacts, organized for clarity and 
 * **Diagram File:** `02_VAD_Processes/Main_Processes__Sport_Arena.pdf`
 * **Source File:** `02_VAD_Processes/Main_Processes__Sport_Arena.adf`
 
-* **Diagram File:** 03_VAD_Processes/Supporting_Processes_Sports_Arena.pdf
-* **Source File:** 03_VAD_Processes/Supporting_Processes__Sports_Arena.adf
+* **Diagram File:** 02_VAD_Processes/Supporting_Processes_Sports_Arena.pdf
+* **Source File:** 02_VAD_Processes/Supporting_Processes__Sports_Arena.adf
 
 * **Notation:** VAD
 * **Tool:** ARIS Express
@@ -38,12 +38,12 @@ This repository contains the following key artifacts, organized for clarity and 
 
 This file contains a diagram of a parent process called "Sports Arena Event Ticketing Process". It also contains diagrams of a reusable sub-process called "Initiate Third-Party Payment" , which is part of the parent process. It also contains diagrams of three reusable sub-processes that are part of the above-mentioned "Initiate Third-Party Payment" sub-process: "Process Payment Authorization", "Process Bank Authorization', "Process Bank Response and Finalize Payment".
 
-* **Source File** `04_BPMN_Processes/Event Ticketing/BPMN__Sports_Arena_Event_Ticketing_System.bpm`
-* **Diagram File:** `04_BPMN_Processes/Main_Processes/Sports Arena Event Ticketing Process.pdf`
-* **Diagram File:** `04_BPMN_Processes/Reusable__Sub_Process/Initiate Third-Party Payment.pdf
-* **Diagram File:** `04_BPMN_Processes/Reusable__Sub_Process/Process Payment Authorization.pdf
-* **Diagram File:** `04_BPMN_Processes/Reusable__Sub_Process/Process Bank Authorization.pdf
-* **Diagram File:** `04_BPMN_Processes/Reusable__Sub_Process/Process Bank Response and Finalize Payment.pdf
+* **Source File** `03_BPMN_Processes/Event Ticketing/BPMN__Sports_Arena_Event_Ticketing_System.bpm`
+* **Diagram File:** `03_BPMN_Processes/Main_Processes/Sports Arena Event Ticketing Process.pdf`
+* **Diagram File:** `03_BPMN_Processes/Reusable__Sub_Process/Initiate Third-Party Payment.pdf
+* **Diagram File:** `03_BPMN_Processes/Reusable__Sub_Process/Process Payment Authorization.pdf
+* **Diagram File:** `03_BPMN_Processes/Reusable__Sub_Process/Process Bank Authorization.pdf
+* **Diagram File:** `03_BPMN_Processes/Reusable__Sub_Process/Process Bank Response and Finalize Payment.pdf
 
 * **Notation** BPMN
 * **Tool:** Bizagi
@@ -52,9 +52,9 @@ This file contains a diagram of a parent process called "Sports Arena Event Tick
 ### 4. System Functionality (UML Use Case Diagram)
 
 * **Description:** A comprehensive UML Use Case diagram defining the functional scope of the automated ticketing system. It identifies key actors (e.g., `Customer`, `3rd Party Payment System`, `Bank`, `Sports Arena Management System`) and their interactions with core system functionalities (`Purchase Tickets`, `Process Customer Payment`, `Issue Tickets`, `Cancel Reservation`, `Notify Customer of Purchase`, `Notify Customer of Payment Failure`).
-* **Diagram File:** `05_UML_Use_Case/Use_Case__Sports_Arena__Event_Ticket_System.pdf` 
-* **Source File:** `05_UML_Use_Case/Use_Case__Sports_Arena__Event_Ticket_System.uml`
-* **Source File:** `05_UML_Use_Case/Use_Case__Sports_Arena__Event_Ticket_System.xmi`
+* **Diagram File:** `04_UML_Use_Case/Use_Case__Sports_Arena__Event_Ticket_System.pdf` 
+* **Source File:** `04_UML_Use_Case/Use_Case__Sports_Arena__Event_Ticket_System.uml`
+* **Source File:** `04_UML_Use_Case/Use_Case__Sports_Arena__Event_Ticket_System.xmi`
 * **Notation:** UML
 * **Tool:** Modelio
 
