@@ -25,8 +25,8 @@ This repository contains the following key artifacts, organized for clarity and 
 * **Diagram File:** `02_VAD_Processes/Main_Processes__Sport_Arena.pdf`
 * **Source File:** `02_VAD_Processes/Main_Processes__Sport_Arena.adf`
 
-* **Diagram File:** 02_VAD_Processes/Supporting_Processes_Sports_Arena.pdf
-* **Source File:** 02_VAD_Processes/Supporting_Processes__Sports_Arena.adf
+* **Diagram File:** `02_VAD_Processes/Supporting_Processes_Sports_Arena.pdf`
+* **Source File:** `02_VAD_Processes/Supporting_Processes__Sports_Arena.adf`
 
 * **Notation:** VAD
 * **Tool:** ARIS Express
@@ -40,10 +40,10 @@ This file contains a diagram of a parent process called "Sports Arena Event Tick
 
 * **Source File** `03_BPMN_Processes/Event Ticketing/BPMN__Sports_Arena_Event_Ticketing_System.bpm`
 * **Diagram File:** `03_BPMN_Processes/Main_Processes/Sports Arena Event Ticketing Process.pdf`
-* **Diagram File:** `03_BPMN_Processes/Reusable__Sub_Process/Initiate Third-Party Payment.pdf
-* **Diagram File:** `03_BPMN_Processes/Reusable__Sub_Process/Process Payment Authorization.pdf
-* **Diagram File:** `03_BPMN_Processes/Reusable__Sub_Process/Process Bank Authorization.pdf
-* **Diagram File:** `03_BPMN_Processes/Reusable__Sub_Process/Process Bank Response and Finalize Payment.pdf
+* **Diagram File:** `03_BPMN_Processes/Reusable__Sub_Process/Initiate Third-Party Payment.pdf`
+* **Diagram File:** `03_BPMN_Processes/Reusable__Sub_Process/Process Payment Authorization.pdf`
+* **Diagram File:** `03_BPMN_Processes/Reusable__Sub_Process/Process Bank Authorization.pdf`
+* **Diagram File:** `03_BPMN_Processes/Reusable__Sub_Process/Process Bank Response and Finalize Payment.pdf`
 
 * **Notation** BPMN
 * **Tool:** Bizagi
