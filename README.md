@@ -52,11 +52,9 @@ This file contains a diagram of a parent process called "Sports Arena Event Tick
 ### 4. System Functionality (UML Use Case Diagram)
 
 * **Description:** A comprehensive UML Use Case diagram defining the functional scope of the automated ticketing system. It identifies key actors (e.g., `Customer`, `3rd Party Payment System`, `Bank`, `Sports Arena Management System`) and their interactions with core system functionalities (`Purchase Tickets`, `Process Customer Payment`, `Issue Tickets`, `Cancel Reservation`, `Notify Customer of Purchase`, `Notify Customer of Payment Failure`).
-* 
 * **Diagram File:** `05_UML_Use_Case/Use_Case__Sports_Arena__Event_Ticket_System.pdf` 
 * **Source File:** `05_UML_Use_Case/Use_Case__Sports_Arena__Event_Ticket_System.uml`
 * **Source File:** `05_UML_Use_Case/Use_Case__Sports_Arena__Event_Ticket_System.xmi`
-
 * **Notation:** UML
 * **Tool:** Modelio
 
