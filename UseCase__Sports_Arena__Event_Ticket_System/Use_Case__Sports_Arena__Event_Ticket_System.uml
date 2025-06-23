@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="2.1" xmlns:xmi="http://schema.omg.org/spec/XMI/2.1" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmi:id="_Zd07UE9UEfC7EM4cJSatpg" name="Model">
+  <eAnnotations xmi:id="_Zd07UU9UEfC7EM4cJSatpg" source="Objing">
+    <contents xmi:type="uml:Property" xmi:id="_Zd07Uk9UEfC7EM4cJSatpg" name="exporterVersion">
+      <defaultValue xmi:type="uml:LiteralString" xmi:id="_Zd07U09UEfC7EM4cJSatpg" value="3.0.0"/>
+    </contents>
+  </eAnnotations>
+  <packagedElement xmi:type="uml:Package" xmi:id="_Zd07VE9UEfC7EM4cJSatpg" name="Sports Arena Event Ticketing System">
+    <packagedElement xmi:type="uml:UseCase" xmi:id="_Zd07VU9UEfC7EM4cJSatpg" name="Purchase Tickets">
+      <ownedComment xmi:id="_Zd07Vk9UEfC7EM4cJSatpg">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_Zd07V09UEfC7EM4cJSatpg">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_Zd07WE9UEfC7EM4cJSatpg">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_Zd07WU9UEfC7EM4cJSatpg">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_Zd07Wk9UEfC7EM4cJSatpg">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_Zd07W09UEfC7EM4cJSatpg">
+        <body>...</body>
+      </ownedComment>
+      <include xmi:id="_Zd07XE9UEfC7EM4cJSatpg" name="UseCaseDependency" addition="_Zd07Z09UEfC7EM4cJSatpg"/>
+      <include xmi:id="_Zd07XU9UEfC7EM4cJSatpg" name="UseCaseDependency" addition="_Zd07Z09UEfC7EM4cJSatpg"/>
+      <include xmi:id="_Zd07Xk9UEfC7EM4cJSatpg" name="UseCaseDependency" addition="_Zd07X09UEfC7EM4cJSatpg"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="_Zd07X09UEfC7EM4cJSatpg" name="Initiate Third-Party Payment">
+      <ownedComment xmi:id="_Zd07YE9UEfC7EM4cJSatpg">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_Zd07YU9UEfC7EM4cJSatpg">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_Zd07Yk9UEfC7EM4cJSatpg">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_Zd07Y09UEfC7EM4cJSatpg">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_Zd07ZE9UEfC7EM4cJSatpg">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_Zd07ZU9UEfC7EM4cJSatpg">
+        <body>...</body>
+      </ownedComment>
+      <include xmi:id="_Zd07Zk9UEfC7EM4cJSatpg" name="UseCaseDependency" addition="_Zd07k09UEfC7EM4cJSatpg"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="_Zd07Z09UEfC7EM4cJSatpg" name="Manage Account">
+      <ownedComment xmi:id="_Zd07aE9UEfC7EM4cJSatpg">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_Zd07aU9UEfC7EM4cJSatpg">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_Zd07ak9UEfC7EM4cJSatpg">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_Zd07a09UEfC7EM4cJSatpg">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_Zd07bE9UEfC7EM4cJSatpg">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_Zd07bU9UEfC7EM4cJSatpg">
+        <body>...</body>
+      </ownedComment>
+    </packagedElement>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="_Zd07bk9UEfC7EM4cJSatpg" name="Issue Tickets and Notify Customer">
+      <ownedComment xmi:id="_Zd07b09UEfC7EM4cJSatpg">
+        <body>Executed only upon successful completion of 'Initiate Third-Party Payment'.
+</body>
+      </ownedComment>
+      <ownedComment xmi:id="_Zd07cE9UEfC7EM4cJSatpg">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_Zd07cU9UEfC7EM4cJSatpg">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_Zd07ck9UEfC7EM4cJSatpg">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_Zd07c09UEfC7EM4cJSatpg">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_Zd07dE9UEfC7EM4cJSatpg">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_Zd07dU9UEfC7EM4cJSatpg">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_Zd07dk9UEfC7EM4cJSatpg">
+        <body>Executed only upon successful completion of 'Initiate Third-Party Payment'.</body>
+      </ownedComment>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Association" xmi:id="_Zd07d09UEfC7EM4cJSatpg" memberEnd="_Zd07eE9UEfC7EM4cJSatpg _Zd07ek9UEfC7EM4cJSatpg" navigableOwnedEnd="_Zd07eE9UEfC7EM4cJSatpg">
+      <ownedEnd xmi:id="_Zd07eE9UEfC7EM4cJSatpg" visibility="public" type="_Zd07VU9UEfC7EM4cJSatpg" isUnique="false" association="_Zd07d09UEfC7EM4cJSatpg">
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_Zd07eU9UEfC7EM4cJSatpg"/>
+      </ownedEnd>
+      <ownedEnd xmi:id="_Zd07ek9UEfC7EM4cJSatpg" visibility="public" type="_Zd07hk9UEfC7EM4cJSatpg" isUnique="false" association="_Zd07d09UEfC7EM4cJSatpg">
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_Zd07e09UEfC7EM4cJSatpg"/>
+      </ownedEnd>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Association" xmi:id="_Zd07fE9UEfC7EM4cJSatpg" memberEnd="_Zd07fU9UEfC7EM4cJSatpg _Zd07f09UEfC7EM4cJSatpg" navigableOwnedEnd="_Zd07fU9UEfC7EM4cJSatpg">
+      <ownedEnd xmi:id="_Zd07fU9UEfC7EM4cJSatpg" visibility="public" type="_Zd07Z09UEfC7EM4cJSatpg" isUnique="false" association="_Zd07fE9UEfC7EM4cJSatpg">
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_Zd07fk9UEfC7EM4cJSatpg"/>
+      </ownedEnd>
+      <ownedEnd xmi:id="_Zd07f09UEfC7EM4cJSatpg" visibility="public" type="_Zd07hk9UEfC7EM4cJSatpg" isUnique="false" association="_Zd07fE9UEfC7EM4cJSatpg">
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_Zd07gE9UEfC7EM4cJSatpg"/>
+      </ownedEnd>
+    </packagedElement>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_Zd07gU9UEfC7EM4cJSatpg" memberEnd="_Zd07gk9UEfC7EM4cJSatpg _Zd07hE9UEfC7EM4cJSatpg" navigableOwnedEnd="_Zd07gk9UEfC7EM4cJSatpg">
+    <ownedEnd xmi:id="_Zd07gk9UEfC7EM4cJSatpg" visibility="public" type="_Zd07k09UEfC7EM4cJSatpg" isUnique="false" association="_Zd07gU9UEfC7EM4cJSatpg">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_Zd07g09UEfC7EM4cJSatpg"/>
+    </ownedEnd>
+    <ownedEnd xmi:id="_Zd07hE9UEfC7EM4cJSatpg" visibility="public" type="_Zd07X09UEfC7EM4cJSatpg" isUnique="false" association="_Zd07gU9UEfC7EM4cJSatpg">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_Zd07hU9UEfC7EM4cJSatpg"/>
+    </ownedEnd>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_Zd07hk9UEfC7EM4cJSatpg" name="Customer"/>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_Zd07h09UEfC7EM4cJSatpg" name="3rd Party Payment System"/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_Zd07iE9UEfC7EM4cJSatpg" memberEnd="_Zd07iU9UEfC7EM4cJSatpg _Zd07i09UEfC7EM4cJSatpg" navigableOwnedEnd="_Zd07iU9UEfC7EM4cJSatpg">
+    <ownedEnd xmi:id="_Zd07iU9UEfC7EM4cJSatpg" visibility="public" type="_Zd07o09UEfC7EM4cJSatpg" isUnique="false" association="_Zd07iE9UEfC7EM4cJSatpg">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_Zd07ik9UEfC7EM4cJSatpg"/>
+    </ownedEnd>
+    <ownedEnd xmi:id="_Zd07i09UEfC7EM4cJSatpg" visibility="public" type="_Zd07h09UEfC7EM4cJSatpg" isUnique="false" association="_Zd07iE9UEfC7EM4cJSatpg">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_Zd07jE9UEfC7EM4cJSatpg"/>
+    </ownedEnd>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_Zd07jU9UEfC7EM4cJSatpg" name="Bank"/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_Zd07jk9UEfC7EM4cJSatpg" memberEnd="_Zd07j09UEfC7EM4cJSatpg _Zd07kU9UEfC7EM4cJSatpg" navigableOwnedEnd="_Zd07j09UEfC7EM4cJSatpg">
+    <ownedEnd xmi:id="_Zd07j09UEfC7EM4cJSatpg" visibility="public" type="_Zd07m09UEfC7EM4cJSatpg" isUnique="false" association="_Zd07jk9UEfC7EM4cJSatpg">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_Zd07kE9UEfC7EM4cJSatpg"/>
+    </ownedEnd>
+    <ownedEnd xmi:id="_Zd07kU9UEfC7EM4cJSatpg" visibility="public" type="_Zd07jU9UEfC7EM4cJSatpg" isUnique="false" association="_Zd07jk9UEfC7EM4cJSatpg">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_Zd07kk9UEfC7EM4cJSatpg"/>
+    </ownedEnd>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_Zd07k09UEfC7EM4cJSatpg" name="Process Payment Authorization">
+    <ownedComment xmi:id="_Zd07lE9UEfC7EM4cJSatpg">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_Zd07lU9UEfC7EM4cJSatpg">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_Zd07lk9UEfC7EM4cJSatpg">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_Zd07l09UEfC7EM4cJSatpg">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_Zd07mE9UEfC7EM4cJSatpg">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_Zd07mU9UEfC7EM4cJSatpg">
+      <body>...</body>
+    </ownedComment>
+    <include xmi:id="_Zd07mk9UEfC7EM4cJSatpg" name="UseCaseDependency" addition="_Zd07m09UEfC7EM4cJSatpg"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_Zd07m09UEfC7EM4cJSatpg" name="Process Bank Authorization">
+    <ownedComment xmi:id="_Zd07nE9UEfC7EM4cJSatpg">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_Zd07nU9UEfC7EM4cJSatpg">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_Zd07nk9UEfC7EM4cJSatpg">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_Zd07n09UEfC7EM4cJSatpg">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_Zd07oE9UEfC7EM4cJSatpg">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_Zd07oU9UEfC7EM4cJSatpg">
+      <body>...</body>
+    </ownedComment>
+    <include xmi:id="_Zd07ok9UEfC7EM4cJSatpg" name="UseCaseDependency" addition="_Zd07o09UEfC7EM4cJSatpg"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_Zd07o09UEfC7EM4cJSatpg" name="Process Bank Response and Finalize Payment">
+    <ownedComment xmi:id="_Zd07pE9UEfC7EM4cJSatpg">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_Zd07pU9UEfC7EM4cJSatpg">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_Zd07pk9UEfC7EM4cJSatpg">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_Zd07p09UEfC7EM4cJSatpg">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_Zd07qE9UEfC7EM4cJSatpg">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_Zd07qU9UEfC7EM4cJSatpg">
+      <body>...</body>
+    </ownedComment>
+    <include xmi:id="_Zd07qk9UEfC7EM4cJSatpg" name="UseCaseDependency" addition="_Zd07bk9UEfC7EM4cJSatpg"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_Zd07q09UEfC7EM4cJSatpg" name="Customer"/>
+  <packagedElement xmi:type="uml:InformationFlow" xmi:id="_Zd07rE9UEfC7EM4cJSatpg" name="InformationFlow" informationSource="_Zd07bk9UEfC7EM4cJSatpg" informationTarget="_Zd07q09UEfC7EM4cJSatpg"/>
+</uml:Model>

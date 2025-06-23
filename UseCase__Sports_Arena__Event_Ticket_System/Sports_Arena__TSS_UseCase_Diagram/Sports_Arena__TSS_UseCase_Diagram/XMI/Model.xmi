@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="2.1" xmlns:xmi="http://schema.omg.org/spec/XMI/2.1" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmi:id="_NGHJcExvEfCy5_dKKIImdA" name="Model">
+  <eAnnotations xmi:id="_NGHJcUxvEfCy5_dKKIImdA" source="Objing">
+    <contents xmi:type="uml:Property" xmi:id="_NGHJckxvEfCy5_dKKIImdA" name="exporterVersion">
+      <defaultValue xmi:type="uml:LiteralString" xmi:id="_NGHJc0xvEfCy5_dKKIImdA" value="3.0.0"/>
+    </contents>
+  </eAnnotations>
+  <packagedElement xmi:type="uml:Package" xmi:id="_NGHJdExvEfCy5_dKKIImdA" name="Sports Arena Event Ticketing System">
+    <packagedElement xmi:type="uml:UseCase" xmi:id="_NGHJdUxvEfCy5_dKKIImdA" name="Purchase Tickets">
+      <ownedComment xmi:id="_NGHJdkxvEfCy5_dKKIImdA">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_NGHJd0xvEfCy5_dKKIImdA">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_NGHJeExvEfCy5_dKKIImdA">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_NGHJeUxvEfCy5_dKKIImdA">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_NGHJekxvEfCy5_dKKIImdA">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_NGHJe0xvEfCy5_dKKIImdA">
+        <body>...</body>
+      </ownedComment>
+      <include xmi:id="_NGHJfExvEfCy5_dKKIImdA" name="UseCaseDependency" addition="_NGHJt0xvEfCy5_dKKIImdA"/>
+      <include xmi:id="_NGHJfUxvEfCy5_dKKIImdA" name="UseCaseDependency" addition="_NGHJiExvEfCy5_dKKIImdA"/>
+      <include xmi:id="_NGHJfkxvEfCy5_dKKIImdA" name="UseCaseDependency" addition="_NGHJj0xvEfCy5_dKKIImdA"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="_NGHJf0xvEfCy5_dKKIImdA" name="Initiate Third-Party Payment">
+      <ownedComment xmi:id="_NGHJgExvEfCy5_dKKIImdA">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_NGHJgUxvEfCy5_dKKIImdA">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_NGHJgkxvEfCy5_dKKIImdA">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_NGHJg0xvEfCy5_dKKIImdA">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_NGHJhExvEfCy5_dKKIImdA">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_NGHJhUxvEfCy5_dKKIImdA">
+        <body>...</body>
+      </ownedComment>
+      <include xmi:id="_NGHJhkxvEfCy5_dKKIImdA" name="UseCaseDependency" addition="_NGHJt0xvEfCy5_dKKIImdA"/>
+      <include xmi:id="_NGHJh0xvEfCy5_dKKIImdA" name="UseCaseDependency" addition="_NGHJx0xvEfCy5_dKKIImdA"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="_NGHJiExvEfCy5_dKKIImdA" name="Authenticate User">
+      <ownedComment xmi:id="_NGHJiUxvEfCy5_dKKIImdA">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_NGHJikxvEfCy5_dKKIImdA">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_NGHJi0xvEfCy5_dKKIImdA">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_NGHJjExvEfCy5_dKKIImdA">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_NGHJjUxvEfCy5_dKKIImdA">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_NGHJjkxvEfCy5_dKKIImdA">
+        <body>...</body>
+      </ownedComment>
+    </packagedElement>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="_NGHJj0xvEfCy5_dKKIImdA" name="Proceed Registration">
+      <ownedComment xmi:id="_NGHJkExvEfCy5_dKKIImdA">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_NGHJkUxvEfCy5_dKKIImdA">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_NGHJkkxvEfCy5_dKKIImdA">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_NGHJk0xvEfCy5_dKKIImdA">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_NGHJlExvEfCy5_dKKIImdA">
+        <body>...</body>
+      </ownedComment>
+      <ownedComment xmi:id="_NGHJlUxvEfCy5_dKKIImdA">
+        <body>...</body>
+      </ownedComment>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Association" xmi:id="_NGHJlkxvEfCy5_dKKIImdA" memberEnd="_NGHJl0xvEfCy5_dKKIImdA _NGHJmUxvEfCy5_dKKIImdA" navigableOwnedEnd="_NGHJl0xvEfCy5_dKKIImdA">
+      <ownedEnd xmi:id="_NGHJl0xvEfCy5_dKKIImdA" visibility="public" type="_NGHJdUxvEfCy5_dKKIImdA" isUnique="false" association="_NGHJlkxvEfCy5_dKKIImdA">
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_NGHJmExvEfCy5_dKKIImdA"/>
+      </ownedEnd>
+      <ownedEnd xmi:id="_NGHJmUxvEfCy5_dKKIImdA" visibility="public" type="_NGHJqkxvEfCy5_dKKIImdA" isUnique="false" association="_NGHJlkxvEfCy5_dKKIImdA">
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_NGHJmkxvEfCy5_dKKIImdA"/>
+      </ownedEnd>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Association" xmi:id="_NGHJm0xvEfCy5_dKKIImdA" memberEnd="_NGHJnExvEfCy5_dKKIImdA _NGHJnkxvEfCy5_dKKIImdA" navigableOwnedEnd="_NGHJnExvEfCy5_dKKIImdA">
+      <ownedEnd xmi:id="_NGHJnExvEfCy5_dKKIImdA" visibility="public" type="_NGHJiExvEfCy5_dKKIImdA" isUnique="false" association="_NGHJm0xvEfCy5_dKKIImdA">
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_NGHJnUxvEfCy5_dKKIImdA"/>
+      </ownedEnd>
+      <ownedEnd xmi:id="_NGHJnkxvEfCy5_dKKIImdA" visibility="public" type="_NGHJqkxvEfCy5_dKKIImdA" isUnique="false" association="_NGHJm0xvEfCy5_dKKIImdA">
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_NGHJn0xvEfCy5_dKKIImdA"/>
+      </ownedEnd>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Association" xmi:id="_NGHJoExvEfCy5_dKKIImdA" memberEnd="_NGHJoUxvEfCy5_dKKIImdA _NGHJo0xvEfCy5_dKKIImdA" navigableOwnedEnd="_NGHJoUxvEfCy5_dKKIImdA">
+      <ownedEnd xmi:id="_NGHJoUxvEfCy5_dKKIImdA" visibility="public" type="_NGHJj0xvEfCy5_dKKIImdA" isUnique="false" association="_NGHJoExvEfCy5_dKKIImdA">
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_NGHJokxvEfCy5_dKKIImdA"/>
+      </ownedEnd>
+      <ownedEnd xmi:id="_NGHJo0xvEfCy5_dKKIImdA" visibility="public" type="_NGHJqkxvEfCy5_dKKIImdA" isUnique="false" association="_NGHJoExvEfCy5_dKKIImdA">
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_NGHJpExvEfCy5_dKKIImdA"/>
+      </ownedEnd>
+    </packagedElement>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_NGHJpUxvEfCy5_dKKIImdA" memberEnd="_NGHJpkxvEfCy5_dKKIImdA _NGHJqExvEfCy5_dKKIImdA" navigableOwnedEnd="_NGHJpkxvEfCy5_dKKIImdA">
+    <ownedEnd xmi:id="_NGHJpkxvEfCy5_dKKIImdA" visibility="public" type="_NGHJt0xvEfCy5_dKKIImdA" isUnique="false" association="_NGHJpUxvEfCy5_dKKIImdA">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_NGHJp0xvEfCy5_dKKIImdA"/>
+    </ownedEnd>
+    <ownedEnd xmi:id="_NGHJqExvEfCy5_dKKIImdA" visibility="public" type="_NGHJf0xvEfCy5_dKKIImdA" isUnique="false" association="_NGHJpUxvEfCy5_dKKIImdA">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_NGHJqUxvEfCy5_dKKIImdA"/>
+    </ownedEnd>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_NGHJqkxvEfCy5_dKKIImdA" name="Customer"/>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_NGHJq0xvEfCy5_dKKIImdA" name="3rd Party Payment System"/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_NGHJrExvEfCy5_dKKIImdA" memberEnd="_NGHJrUxvEfCy5_dKKIImdA _NGHJr0xvEfCy5_dKKIImdA" navigableOwnedEnd="_NGHJrUxvEfCy5_dKKIImdA">
+    <ownedEnd xmi:id="_NGHJrUxvEfCy5_dKKIImdA" visibility="public" type="_NGHJx0xvEfCy5_dKKIImdA" isUnique="false" association="_NGHJrExvEfCy5_dKKIImdA">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_NGHJrkxvEfCy5_dKKIImdA"/>
+    </ownedEnd>
+    <ownedEnd xmi:id="_NGHJr0xvEfCy5_dKKIImdA" visibility="public" type="_NGHJq0xvEfCy5_dKKIImdA" isUnique="false" association="_NGHJrExvEfCy5_dKKIImdA">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_NGHJsExvEfCy5_dKKIImdA"/>
+    </ownedEnd>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_NGHJsUxvEfCy5_dKKIImdA" name="Bank"/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_NGHJskxvEfCy5_dKKIImdA" memberEnd="_NGHJs0xvEfCy5_dKKIImdA _NGHJtUxvEfCy5_dKKIImdA" navigableOwnedEnd="_NGHJs0xvEfCy5_dKKIImdA">
+    <ownedEnd xmi:id="_NGHJs0xvEfCy5_dKKIImdA" visibility="public" type="_NGHJv0xvEfCy5_dKKIImdA" isUnique="false" association="_NGHJskxvEfCy5_dKKIImdA">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_NGHJtExvEfCy5_dKKIImdA"/>
+    </ownedEnd>
+    <ownedEnd xmi:id="_NGHJtUxvEfCy5_dKKIImdA" visibility="public" type="_NGHJsUxvEfCy5_dKKIImdA" isUnique="false" association="_NGHJskxvEfCy5_dKKIImdA">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_NGHJtkxvEfCy5_dKKIImdA"/>
+    </ownedEnd>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_NGHJt0xvEfCy5_dKKIImdA" name="Process Payment Authorization">
+    <ownedComment xmi:id="_NGHJuExvEfCy5_dKKIImdA">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_NGHJuUxvEfCy5_dKKIImdA">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_NGHJukxvEfCy5_dKKIImdA">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_NGHJu0xvEfCy5_dKKIImdA">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_NGHJvExvEfCy5_dKKIImdA">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_NGHJvUxvEfCy5_dKKIImdA">
+      <body>...</body>
+    </ownedComment>
+    <include xmi:id="_NGHJvkxvEfCy5_dKKIImdA" name="UseCaseDependency" addition="_NGHJv0xvEfCy5_dKKIImdA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_NGHJv0xvEfCy5_dKKIImdA" name="Process Bank Authorization">
+    <ownedComment xmi:id="_NGHJwExvEfCy5_dKKIImdA">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_NGHJwUxvEfCy5_dKKIImdA">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_NGHJwkxvEfCy5_dKKIImdA">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_NGHJw0xvEfCy5_dKKIImdA">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_NGHJxExvEfCy5_dKKIImdA">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_NGHJxUxvEfCy5_dKKIImdA">
+      <body>...</body>
+    </ownedComment>
+    <include xmi:id="_NGHJxkxvEfCy5_dKKIImdA" name="UseCaseDependency" addition="_NGHJx0xvEfCy5_dKKIImdA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_NGHJx0xvEfCy5_dKKIImdA" name="Process Bank Response and Finalize Payment">
+    <ownedComment xmi:id="_NGHJyExvEfCy5_dKKIImdA">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_NGHJyUxvEfCy5_dKKIImdA">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_NGHJykxvEfCy5_dKKIImdA">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_NGHJy0xvEfCy5_dKKIImdA">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_NGHJzExvEfCy5_dKKIImdA">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_NGHJzUxvEfCy5_dKKIImdA">
+      <body>...</body>
+    </ownedComment>
+  </packagedElement>
+</uml:Model>
