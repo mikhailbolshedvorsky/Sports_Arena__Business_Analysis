@@ -37,26 +37,50 @@ This repository contains the following key artifacts, organized for clarity and 
 
 ### 3. Business Process Models (BPMN)
 
-**Description:** These diagrams describe the sequence of actions in the automated ticket sales system via the Sports Arena website, including interactions with a third-party payment system and a bank. Designed primarily for business management.
+**Description:** This section presents a complete BPMN model of the automated ticketing process at the Sports Arena, including interactions with a third-party payment system and a bank. The diagrams provide a visual representation of all key activities involved in online ticket purchases. The main process and all reusable subprocesses are modeled using BPMN 2.0 notation in Bizagi Modeler.
 
-Included:
-- A parent process: `Sports Arena Event Ticketing Process`
-- A reusable sub-process: `Initiate Third-Party Payment`
-- Three nested reusable sub-processes:
-  - `Process Payment Authorization`
-  - `Process Bank Authorization`
-  - `Process Bank Response and Finalize Payment`
+The following five diagrams are provided both as high-resolution `.png` previews for immediate viewing and as `.pdf` files for detailed inspection or printing. All image and document files are located in the `03_BPMN_Processes/` folder.
 
-* **Source File:** `03_BPMN_Processes/BPMN__Sports_Arena_Event_Ticketing_System.bpm`
-* **Diagram Files:**
-  - `03_BPMN_Processes/Sports Arena Event Ticketing Process.pdf`
-  - `03_BPMN_Processes/Initiate Third-Party Payment.pdf`
-  - `03_BPMN_Processes/Process Payment Authorization.pdf`
-  - `03_BPMN_Processes/Process Bank Authorization.pdf`
-  - `03_BPMN_Processes/Process Bank Response and Finalize Payment.pdf`
+#### 🔹 Main Process
 
-* **Notation:** BPMN
-* **Tool:** Bizagi
+**Title:** Sports Arena Event Ticketing Process  
+![Main Process](03_BPMN_Processes/BPMN__Sports_Arena_Event_Ticketing_System.png)  
+*Files:*  
+- `BPMN__Sports_Arena_Event_Ticketing_System.png`  
+- `Sports Arena Event Ticketing Process.pdf`
+
+#### 🔹 Reusable Sub-Process
+
+**Title:** Initiate Third-Party Payment  
+![Subprocess 1](03_BPMN_Processes/BPMN__Initiate%20Third-Party%20Payment.png)  
+*Files:*  
+- `BPMN__Initiate Third-Party Payment.png`  
+- `Initiate Third-Party Payment.pdf`
+
+#### 🔹 Nested Reusable Sub-Processes
+
+**Title:** Process Payment Authorization  
+![Subprocess 2](03_BPMN_Processes/BPMN__Process%20Payment%20Authorization.png)  
+*Files:*  
+- `BPMN__Process Payment Authorization.png`  
+- `Process Payment Authorization.pdf`
+
+**Title:** Process Bank Authorization  
+![Subprocess 3](03_BPMN_Processes/BPMN__Process%20Bank%20Authorization.png)  
+*Files:*  
+- `BPMN__Process Bank Authorization.png`  
+- `Process Bank Authorization.pdf`
+
+**Title:** Process Bank Response and Finalize Payment  
+![Subprocess 4](03_BPMN_Processes/BPMN__Process%20Bank%20Response%20and%20Finalize%20Payment.png)  
+*Files:*  
+- `BPMN__Process Bank Response and Finalize Payment.png`  
+- `Process Bank Response and Finalize Payment.pdf`
+
+* **Source File:** `03_BPMN_Processes/BPMN__Sports_Arena_Event_Ticketing_System.bpm`  
+* **Notation:** BPMN 2.0  
+* **Tool:** Bizagi Modeler
+
 
 ---
 
@@ -103,12 +127,5 @@ Included:
 | `.pod`, `.pod.xml` | Compatible project management tools (custom/enterprise) |
 
 ---
-
-## 📸 Preview Example (Optional)
-
-Add a visual preview of a key diagram for instant context:
-
-```markdown
-### Preview: Sports Arena Event Ticketing Process (BPMN)
 
 ![BPMN Example](03_BPMN_Processes/Sports%20Arena%20Event%20Ticketing%20Process.png)
