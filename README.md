@@ -25,7 +25,7 @@ This repository contains the following key artifacts, organized for clarity and 
 * **Diagram File:** `02_VAD_Processes/Main_Processes__Sport_Arena.pdf`
 * **Source File:** `02_VAD_Processes/Main_Processes__Sport_Arena.adf`
 
-* **Diagram File:** `02_VAD_Processes/Supporting_Processes_Sports_Arena.pdf`
+* **Diagram File:** `02_VAD_Processes/Supporting_Processes__Sports_Arena.pdf`
 * **Source File:** `02_VAD_Processes/Supporting_Processes__Sports_Arena.adf`
 
 * **Notation:** VAD
