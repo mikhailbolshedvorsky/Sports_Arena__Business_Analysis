@@ -38,12 +38,12 @@ This repository contains the following key artifacts, organized for clarity and 
 
 This file contains a diagram of a parent process called "Sports Arena Event Ticketing Process". It also contains diagrams of a reusable sub-process called "Initiate Third-Party Payment" , which is part of the parent process. It also contains diagrams of three reusable sub-processes that are part of the above-mentioned "Initiate Third-Party Payment" sub-process: "Process Payment Authorization", "Process Bank Authorization', "Process Bank Response and Finalize Payment".
 
-* **Source File** `03_BPMN_Processes/Event Ticketing/BPMN__Sports_Arena_Event_Ticketing_System.bpm`
-* **Diagram File:** `03_BPMN_Processes/Main_Processes/Sports Arena Event Ticketing Process.pdf`
-* **Diagram File:** `03_BPMN_Processes/Reusable__Sub_Process/Initiate Third-Party Payment.pdf`
-* **Diagram File:** `03_BPMN_Processes/Reusable__Sub_Process/Process Payment Authorization.pdf`
-* **Diagram File:** `03_BPMN_Processes/Reusable__Sub_Process/Process Bank Authorization.pdf`
-* **Diagram File:** `03_BPMN_Processes/Reusable__Sub_Process/Process Bank Response and Finalize Payment.pdf`
+* **Source File** `03_BPMN_Processes/BPMN__Sports_Arena_Event_Ticketing_System.bpm`
+* **Diagram File:** `03_BPMN_Processes/Sports Arena Event Ticketing Process.pdf`
+* **Diagram File:** `03_BPMN_Processes/Initiate Third-Party Payment.pdf`
+* **Diagram File:** `03_BPMN_Processes/Process Payment Authorization.pdf`
+* **Diagram File:** `03_BPMN_Processes/Process Bank Authorization.pdf`
+* **Diagram File:** `03_BPMN_Processes/Process Bank Response and Finalize Payment.pdf`
 
 * **Notation** BPMN
 * **Tool:** Bizagi
