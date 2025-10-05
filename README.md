@@ -117,7 +117,7 @@ The following five diagrams are provided both as high-resolution `.png` previews
 
 ---
 
-## 🧰 How to Open Source Files
+## 🧰 How to Open Source 
 
 | File Type | Tool |
 |-----------|------|
